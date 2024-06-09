@@ -1,0 +1,4 @@
+/venv/
+/clientes/__pycache__
+/clientes/migrations/__pycache__
+/mecajato/__pycache__
