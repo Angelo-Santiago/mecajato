@@ -1,4 +1,7 @@
+# Ignorar o diretório de ambiente virtual
 /venv/
-/clientes/__pycache__
-/clientes/migrations/__pycache__
-/mecajato/__pycache__
+
+# Ignorar __pycache__ em vários locais
+/clientes/__pycache__/
+/clientes/migrations/__pycache__/
+/mecajato/__pycache__/
